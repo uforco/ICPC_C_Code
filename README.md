@@ -3,6 +3,6 @@
 
 ####
 
-<span style="color: red;">You can not use ChatGPT</span>
+🔴 **Important:** <span style="color: red;">You can not use ChatGPT</span>
 
 <img src="celcu.png"/>
