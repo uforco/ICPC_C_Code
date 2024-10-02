@@ -1,5 +1,5 @@
 
-## Your first task is to display he number of digits in the input element with html
+## when you click on the buttons, the number on the button should be displayed in the input element with html
 
 ####
 
