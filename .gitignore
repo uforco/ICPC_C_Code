@@ -1,0 +1,6 @@
+.cph
+.vscode
+.prettierrc
+a.out
+*.txt
+*.exe
